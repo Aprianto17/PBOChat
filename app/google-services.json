@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "574058767102",
+    "firebase_url": "https://pbochat-53101.firebaseio.com",
+    "project_id": "pbochat-53101",
+    "storage_bucket": "pbochat-53101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574058767102:android:c210725f0f06142e",
+        "android_client_info": {
+          "package_name": "com.example.aprianto.pbochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574058767102-m6qaov93fg0t5912k2vofl0v3d0hk5h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aprianto.pbochat",
+            "certificate_hash": "24520829b1702822e0cfcc7225911b3cdf1cb011"
+          }
+        },
+        {
+          "client_id": "574058767102-880tvj8aj68ukdvbuh4v1b3psvsgmuvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLl9CEfXCCLJAjIER6CRkjinXrCfCmC9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574058767102-880tvj8aj68ukdvbuh4v1b3psvsgmuvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
